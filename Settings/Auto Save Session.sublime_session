@@ -21,7 +21,7 @@
 					"file": "/home/kelly/.config/sublime-text-2/.gitignore",
 					"settings":
 					{
-						"buffer_size": 278,
+						"buffer_size": 443,
 						"line_ending": "Windows"
 					}
 				}
@@ -99,15 +99,15 @@
 							"file": "/home/kelly/.config/sublime-text-2/.gitignore",
 							"settings":
 							{
-								"buffer_size": 278,
+								"buffer_size": 443,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										168,
-										168
+										331,
+										331
 									]
 								],
 								"settings":
@@ -154,7 +154,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,1,0,0,0,0,0,0,0,2806,900",
+			"position": "0,1,0,0,0,220,24,858,475,2806,900",
 			"replace":
 			{
 				"height": 0.0
