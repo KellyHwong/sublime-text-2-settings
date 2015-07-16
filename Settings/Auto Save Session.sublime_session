@@ -21,16 +21,8 @@
 					"file": "/home/kelly/.config/sublime-text-2/.gitignore",
 					"settings":
 					{
-						"buffer_size": 319,
+						"buffer_size": 278,
 						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/home/kelly/.config/sublime-text-2/.git/COMMIT_EDITMSG",
-					"settings":
-					{
-						"buffer_size": 405,
-						"line_ending": "Unix"
 					}
 				}
 			],
@@ -59,6 +51,7 @@
 			"file_history":
 			[
 				"/home/kelly/.config/sublime-text-2/.gitignore",
+				"/home/kelly/.config/sublime-text-2/.git/COMMIT_EDITMSG",
 				"/home/kelly/桌面/[Report]PRL_DSN_IJCV2010.md",
 				"/home/kelly/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 				"/home/kelly/.config/sublime-text-2/Packages/User/Markdown.sublime-settings",
@@ -98,7 +91,7 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -106,47 +99,19 @@
 							"file": "/home/kelly/.config/sublime-text-2/.gitignore",
 							"settings":
 							{
-								"buffer_size": 319,
+								"buffer_size": 278,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										318,
-										318
+										168,
+										168
 									]
 								],
 								"settings":
 								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/kelly/.config/sublime-text-2/.git/COMMIT_EDITMSG",
-							"settings":
-							{
-								"buffer_size": 405,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										121,
-										121
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "UTF-8",
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,

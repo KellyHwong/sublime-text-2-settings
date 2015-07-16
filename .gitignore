@@ -1,8 +1,7 @@
 # exclude everything except directory "Settings" and "Packages/User"
 /*
-!/Settings # include this folder
-!/Packages # include this folder
-/Packages/* # exclude this folder
-!/Packages/User # except this folder
+!/Settings/License.sublime_license # include this file
+!/Packages/User/* # include this folder
+
 # gitignore fucked my brain!
 # see https://www.kernel.org/pub/software/scm/git/docs/gitignore.html for detail
