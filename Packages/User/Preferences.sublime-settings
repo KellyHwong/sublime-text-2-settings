@@ -1,8 +1,9 @@
 {
 	"auto_complete": false,
 	"caret_style": "solid",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"default_encoding": "UTF-8 with ROM",
-	"detect_slow_plugins": false,
+	"detect_slow_plugins": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -26,7 +27,7 @@
 		"subpixel_antialias",
 		"no_bold"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -37,7 +38,8 @@
 		"Python PEP8 Autoformat",
 		"SublimeREPL",
 		"SublimeCodeIntel",
-		"Cscope"
+		"Cscope",
+		"Markdown"
 	],
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
