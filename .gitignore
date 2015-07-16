@@ -1,16 +1,16 @@
 # exclude everything except directory "Settings" and "Packages/User"
 # exclude all
-/*
+/**
 # include "Settings"
 !Settings/
 # exclude all files in "Settings" but this one
-Settings/*
+Settings/**
 !Settings/License.sublime_license
 
 # include "Packages"
 !Packages/
 # exclude all folders and files in "Packages" but this folder
-Packages/*
+Packages/**
 !Packages/User/
 
 # gitignore fucked my brain!
