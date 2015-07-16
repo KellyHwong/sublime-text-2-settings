@@ -17,6 +17,17 @@
 			},
 			"buffers":
 			[
+				{
+					"contents": "### ",
+					"file": "/home/kelly/Soft/_GitHub/Markdown/[Report]Current_Reading.md",
+					"file_size": 917,
+					"file_write_time": 1437052261000000,
+					"settings":
+					{
+						"buffer_size": 4,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"command_palette":
@@ -46,6 +57,11 @@
 			},
 			"file_history":
 			[
+				"/home/kelly/.git-credentials",
+				"/home/kelly/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/kelly/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/kelly/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/kelly/Soft/_GitHub/Markdown/[Report]Now_TODOs.md",
 				"/home/kelly/Soft/_GitHub/Markdown/README.md",
 				"/home/kelly/.config/sublime-text-2/Packages/User/MultiMarkdown.sublime-settings",
 				"/home/kelly/.config/sublime-text-2/Packages/User/Markdown (Standard).sublime-settings",
@@ -53,26 +69,22 @@
 				"/home/kelly/Soft/_GitHub/Markdown/[Report]PRL_DSN_IJCV2010.md",
 				"/home/kelly/.config/sublime-text-2/Packages/User/Markdown.sublime-settings",
 				"/home/kelly/Soft/_GitHub/Markdown-Blog/firstmarkdown.md",
-				"/home/kelly/Soft/_GitHub/Markdown/[Report]Now_TODOs.md",
 				"/home/kelly/.config/sublime-text-2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
 				"/home/kelly/.config/sublime-text-2/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
 				"/home/kelly/.config/sublime-text-2/Packages/MarkdownEditing/Markdown.sublime-settings",
 				"/home/kelly/Desktop/java.java",
 				"/home/kelly/Desktop/py.py",
-				"/home/kelly/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 				"/home/kelly/.config/sublime-text-2/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
 				"/home/kelly/.config/sublime-text-2/Packages/MarkdownEditing/Default (Linux).sublime-keymap",
 				"/home/kelly/.config/sublime-text-2/Packages/User/Default (Windows).sublime-keymap",
-				"/home/kelly/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
 				"/etc/fstab",
 				"/home/kelly/.config/sublime-text-2/.gitignore",
 				"/home/kelly/.config/sublime-text-2/.git/COMMIT_EDITMSG",
-				"/home/kelly/桌面/[Report]PRL_DSN_IJCV2010.md",
-				"/home/kelly/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap"
+				"/home/kelly/桌面/[Report]PRL_DSN_IJCV2010.md"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 36.0
 			},
 			"find_in_files":
 			{
@@ -103,13 +115,36 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
-					]
-				},
-				{
-					"sheets":
-					[
+						{
+							"buffer": 0,
+							"file": "/home/kelly/Soft/_GitHub/Markdown/[Report]Current_Reading.md",
+							"settings":
+							{
+								"buffer_size": 4,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4,
+										4
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -130,18 +165,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -155,7 +183,7 @@
 			{
 				"height": 118.0
 			},
-			"position": "0,1,0,0,0,0,0,0,0,2806,900",
+			"position": "0,0,2,-32000,-32000,-1,-1,2231,663,2192,900",
 			"replace":
 			{
 				"height": 0.0

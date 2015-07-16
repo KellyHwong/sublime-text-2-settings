@@ -18,14 +18,10 @@
 			"buffers":
 			[
 				{
-					"contents": "### ",
-					"file": "/home/kelly/Soft/_GitHub/Markdown/[Report]Current_Reading.md",
-					"file_size": 917,
-					"file_write_time": 1437052261000000,
 					"settings":
 					{
-						"buffer_size": 4,
-						"line_ending": "Unix"
+						"buffer_size": 0,
+						"line_ending": "Windows"
 					}
 				}
 			],
@@ -57,6 +53,7 @@
 			},
 			"file_history":
 			[
+				"/home/kelly/Soft/_GitHub/Markdown/[Report]Current_Reading.md",
 				"/home/kelly/.git-credentials",
 				"/home/kelly/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
 				"/home/kelly/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
@@ -120,24 +117,22 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/kelly/Soft/_GitHub/Markdown/[Report]Current_Reading.md",
 							"settings":
 							{
-								"buffer_size": 4,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										4,
-										4
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -183,7 +178,7 @@
 			{
 				"height": 118.0
 			},
-			"position": "0,0,0,0,0,329,30,1382,663,2806,900",
+			"position": "0,0,1,-1,-1,-1,-1,713,158,3,1229",
 			"replace":
 			{
 				"height": 0.0
