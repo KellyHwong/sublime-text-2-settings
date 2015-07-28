@@ -1,10 +1,27 @@
 {
+	"ignored_packages":
+	[
+		"Vintage",
+		"Python PEP8 Autoformat",
+		"Terminal",
+		"SublimeAStyleFormatter",
+		"Markdown",
+		"Cscope",
+		// Packages for Python
+		"SublimeREPL",
+        "SublimeCodeIntel"
+        // Packages for Markdown
+        //"Markdown Editing",
+        //"Markdown Preview"
+	],
 	"auto_complete": false,
 	"caret_style": "solid",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"default_encoding": "UTF-8 with ROM",
 	"detect_slow_plugins": true,
 	"draw_white_space": "all",
+	// "default_line_ending": "unix",
+	"trim_trailing_white_space_on_save": true,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -27,25 +44,14 @@
 		"subpixel_antialias",
 		"no_bold"
 	],
-	"font_size": 14,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Terminal",
-		"Vintage",
-		"SublimeAStyleFormatter",
-		"Python PEP8 Autoformat",
-		"SublimeREPL",
-		"SublimeCodeIntel",
-		"Cscope",
-		"Markdown"
-	],
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
 	"rulers":
 	[
-		79
+		80
 	],
 	"scroll_past_end": false,
 	"show_full_path": true,
@@ -55,5 +61,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,
 	"word_wrap": true,
-	"wrap_width": 100
+	"wrap_width": 80
 }
